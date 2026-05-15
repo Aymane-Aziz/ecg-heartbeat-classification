@@ -11,7 +11,7 @@ Classifying cardiac arrhythmias from ECG signals using the [MIT-BIH dataset](htt
 | CNN + aggressive SMOTE | 0.83 |
 | CNN + tuned SMOTE + Focal Loss | 0.93 |
 
-Experiment tracking: [View on Weights & Biases](YOUR_WANDB_URL)
+Experiment tracking: https://wandb.ai/aymane-aziz-test-2004-aymane/ecg-heartbeat-classification?nw=nwuseraymaneaziztest2004
 
 ## Key Findings
 
